@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extentreports>
+    <configuration>
+        <encoding>UTF-8</encoding>
+        <theme>standard</theme>
+        <documentTitle>Extent Report</documentTitle>
+        <reportName>Report: The Straits Times</reportName>
+        <reportHeadline></reportHeadline>
+        <dateFormat>yyyy-MM-dd</dateFormat>
+        <timeFormat>HH:mm:ss</timeFormat>
+    </configuration>
+</extentreports>
